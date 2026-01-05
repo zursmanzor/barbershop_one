@@ -1,0 +1,37 @@
+1. Контроль:
+    - Меню - Гамбургер
+    - Видео
+    - Карусель 3 шт.
+    - Кнопка вверх
+2. Подключенные файлы css, js
+    webfonts/stylesheet.css - шрифты
+    css/bootstrap.min.css - стили bootstrap
+    css/all.min.css - библиотека иконок
+    css/animate.min.css - анимация
+    css/owl.carousel.min.css - карусель
+    css/owl.theme.default.min.css - карусель
+    css/magnific-popup.css - всплывающее окно с видео
+    css/aos.css - вывод png на главной странице
+    css/lightbox.min.css - просмотр фото в портфолио
+    css/style.css - основные стили
+    js/jquery-3.7.1.min.js - js библиотека jquery
+    js/bootstrap.min.js - js библиотека bootstrap
+    js/owl.carousel.min.js - js библиотека carousel
+    js/easing.min.js - кнопка "вверх"
+    js/isotope.pkgd.min.js - кнопка "вверх", фильтр портфолио
+    js/video_link.js - всплывающее окно с видео
+    js/video.js - всплывающее окно с видео
+    js/animation_links.js - анимация
+    js/animation.js - анимация
+    js/imask.js - телефон, маска ввода
+    js/axios.min.js - фильтр для галереи
+    js/main.js - основной код js
+    js/telegram.js - отправка формы в telegram
+3. portfolio.html - фильтр, просмотр.
+4. Обрезание текста при адаптации (service.html, blog.html)
+5. телефон - маска ввода.
+6. Валидация формы
+7. отправка формы
+8. js-файлы
+
+9. Видеоролик - размер, звучание
